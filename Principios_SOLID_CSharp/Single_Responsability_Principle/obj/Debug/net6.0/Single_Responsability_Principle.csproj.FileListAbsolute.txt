@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\Single_Responsability_Principle.exe
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\Single_Responsability_Principle.deps.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\Single_Responsability_Principle.runtimeconfig.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\Single_Responsability_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\ref\Single_Responsability_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\bin\Debug\net6.0\Single_Responsability_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\ref\Single_Responsability_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Single_Responsability_Principle\obj\Debug\net6.0\Single_Responsability_Principle.genruntimeconfig.cache

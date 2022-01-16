@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\Interface_Segretation_Principle.exe
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\Interface_Segretation_Principle.deps.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\Interface_Segretation_Principle.runtimeconfig.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\Interface_Segretation_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\ref\Interface_Segretation_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\bin\Debug\net6.0\Interface_Segretation_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\ref\Interface_Segretation_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Interface_Segretation_Principle\obj\Debug\net6.0\Interface_Segretation_Principle.genruntimeconfig.cache

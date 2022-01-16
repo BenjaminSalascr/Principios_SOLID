@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\Liskov_Substitution_Principle.exe
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\Liskov_Substitution_Principle.deps.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\Liskov_Substitution_Principle.runtimeconfig.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\Liskov_Substitution_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\ref\Liskov_Substitution_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\bin\Debug\net6.0\Liskov_Substitution_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\ref\Liskov_Substitution_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Liskov_Substitution_Principle\obj\Debug\net6.0\Liskov_Substitution_Principle.genruntimeconfig.cache

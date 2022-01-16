@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90ba867f-a9af-410f-b0cc-f1f84d1f4db1": {
+      "ProjectGuid": "90ba867f-a9af-410f-b0cc-f1f84d1f4db1",
+      "DisplayName": "Single_Responsability_Principle",
+      "ColorIndex": 0
+    },
+    "9388aea3-2554-464a-b32e-1eef03751db2": {
+      "ProjectGuid": "9388aea3-2554-464a-b32e-1eef03751db2",
+      "DisplayName": "Open_Closed_Principle",
+      "ColorIndex": 1
+    },
+    "eeaca670-a3c3-434a-a1b4-e18a58e2372e": {
+      "ProjectGuid": "eeaca670-a3c3-434a-a1b4-e18a58e2372e",
+      "DisplayName": "Liskov_Substitution_Principle",
+      "ColorIndex": 2
+    },
+    "c17838f7-2301-431d-9930-85a4502362b6": {
+      "ProjectGuid": "c17838f7-2301-431d-9930-85a4502362b6",
+      "DisplayName": "Interface_Segretation_Principle",
+      "ColorIndex": 3
+    },
+    "7cf01b7e-c2f9-45b0-bb3b-ccc5b320e465": {
+      "ProjectGuid": "7cf01b7e-c2f9-45b0-bb3b-ccc5b320e465",
+      "DisplayName": "Dependency_Inversion_Principle",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "73ac4e9d-fbcf-48fb-98e2-60636514d941": {
+      "ProjectGuid": "73ac4e9d-fbcf-48fb-98e2-60636514d941",
+      "DisplayName": "NetFrameworkPruebaDIP",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

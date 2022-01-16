@@ -1,0 +1,10 @@
+﻿namespace Dependency_Inversion_Principle.Models
+{
+    public class JsonData
+    {
+        public int userId { get; set; }
+        public int id { get; set; }
+        public string title { get; set; }
+        public bool completed { get; set; }
+    }
+}

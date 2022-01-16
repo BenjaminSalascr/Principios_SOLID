@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dependency_Inversion_Principle/1.0.0": {
+        "dependencies": {
+          "Interface_Segretation_Principle": "1.0.0"
+        },
+        "runtime": {
+          "Dependency_Inversion_Principle.dll": {}
+        }
+      },
+      "Interface_Segretation_Principle/1.0.0": {
+        "runtime": {
+          "Interface_Segretation_Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dependency_Inversion_Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interface_Segretation_Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

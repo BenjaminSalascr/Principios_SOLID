@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\Open_Closed_Principle.exe
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\Open_Closed_Principle.deps.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\Open_Closed_Principle.runtimeconfig.json
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\Open_Closed_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\ref\Open_Closed_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\bin\Debug\net6.0\Open_Closed_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\ref\Open_Closed_Principle.dll
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.pdb
+C:\Users\jorge\source\repos\Principios_SOLID_CSharp\Open_Closed_Principle\obj\Debug\net6.0\Open_Closed_Principle.genruntimeconfig.cache
